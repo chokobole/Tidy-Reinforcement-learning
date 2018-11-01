@@ -1,9 +1,6 @@
 # Pretty Reinforcement Learning with Tensorflow
 I am a researcher working on automation tasks using deep reinforcement learning. The paper and the reality were quite different, and there was a lot of difficulty during the automation task. I create this repository to help those who start a task using deep reinforcement learning. All of the code is in tensorflow and Python 3.
 
-## Tag
-reinforcment-learning, deep-q-learning, ddpg, a2c, policy-gradient, dqn, deep-deterministic-policy-gradient, actor-critic, tensorflow, reinforcment-learning-tutorial, ppo, proximal-policy-optimization, machine-learning, deep-learning, realistic development
-
 
 ## Objective
 * The code in this repo has a simple and pretty structure in which each algorithm achieves uniformity. It will be a huge help for you to understand the differences between the reinforcement learning algorithms.
