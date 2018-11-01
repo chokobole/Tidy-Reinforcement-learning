@@ -1,4 +1,4 @@
-# Pretty Reinforcement Learning with Tensorflow
+# Tidy Reinforcement Learning with Tensorflow
 I am a researcher working on automation tasks using deep reinforcement learning. The paper and the reality were quite different, and there was a lot of difficulty during the automation task. I create this repository to help those who start a task using deep reinforcement learning. All of the code is in tensorflow and Python 3.
 
 
