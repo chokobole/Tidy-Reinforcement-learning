@@ -12,11 +12,11 @@ We used open-gym cartpoles (for discrete tasks), mountain car (for continous tas
 
 * Policy Gradient (PG) for cartpole (discrete task)
 * Advantage Actor-Critic (A2C) for cartpole (discrete task)
-* Advantage Actor-Critic (A2C) for mountain car (continuous task) (imperfect...)
+* Advantage Actor-Critic (A2C) for mountain car (continuous task),,,(imperfect...!!!)
 * Proximal Policy Optimization (PPO) (continuous task)
 * Deep Q Network (DQN) for cartpole (discrete task)
 * Deep Deterministic Policy Gradient (DDPG) for pendulum (continuous task)
-* Hindsight Experience Replay for coin flipping (discrete task)
+* Hindsight Experience Replay for coin flipping (discrete task),,,(imperfect...!!!)
 
 
 ## Papers / Pseudo Codes of RL Algorithms
